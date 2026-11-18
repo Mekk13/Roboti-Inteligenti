@@ -11,6 +11,7 @@ keys_we_love = {
     'd': "right",
     'q': "look_up",
     'e': "look_down",
+    'p': "screenshot",
     'Key.up': "up",
     'Key.down': "down",
     'Key.left': "left",
